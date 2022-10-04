@@ -1,5 +1,7 @@
-.body {
+body {
     font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .header-container {
@@ -7,8 +9,45 @@
     color: white;
 }
 
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 .main-text {
     font-size: 48px;
-    font-weight: 900;
+    font-weight: bold;
     color: #F9FAF8;
+}
+
+.subtext {
+    font-size: 18px;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin: 0;
 }
