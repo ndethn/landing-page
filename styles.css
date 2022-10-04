@@ -1,0 +1,14 @@
+.body {
+    font-family: "Roboto", sans-serif;
+}
+
+.header-container {
+    background-color: #1F2937;
+    color: white;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
