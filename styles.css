@@ -10,6 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     padding: 0 200px;
+    flex-wrap: wrap;
 }
 
 .header-menu {
