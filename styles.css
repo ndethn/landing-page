@@ -54,4 +54,6 @@ button {
 
 .header-body {
     display: flex;
+    padding-bottom: 100px;
+    justify-content: space-between;
 }
