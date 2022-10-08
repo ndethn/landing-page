@@ -105,6 +105,8 @@ ul {
     
 }
 
+/* quote section */
+
 .quote-container {
     background-color: #E5E7EB;
     padding: 100px 200px;
@@ -126,6 +128,8 @@ ul {
     margin: 0;
 }
 
+/* subscribe section */
+
 .subscribe-container {
     background-color: #3882F6;
     color: #F9FAF8;
@@ -134,4 +138,20 @@ ul {
     padding: 40px 60px;
     margin: 70px;
     border-radius: 8px;
+}
+
+.join-text {
+    font-size: 20px;
+}
+
+.subscribe-subtext {
+    font-size: 18px;
+}
+
+.subscribe-button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    color: white;
+    border-radius: 8px;
+    padding: 0 20px;
 }
