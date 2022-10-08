@@ -105,7 +105,7 @@ ul {
 
 .quote-container {
     background-color: #E5E7EB;
-    padding: 50px 100px;
+    padding: 100px 200px;
 }
 
 .quote-text {
@@ -120,4 +120,6 @@ ul {
     text-align: right;
     font-size: 18px;
     color: #1F2937;
+    padding-right: 20px;
+    margin: 0;
 }
