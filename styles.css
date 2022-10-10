@@ -62,18 +62,18 @@ ul {
 }
 
 .header-text-container {
-    width: 400px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    max-width: 500px;
+    min-width: 300px;
+    padding-right: 50px;
 }
 
-.header-text-container .header-button {
+.header-button {
     background-color: #3882F6;
     color: #F9FAF8;
     margin: 0;
     border: none;
     border-radius: 8px;
+    padding: 8px 30px;
 }
 
 
